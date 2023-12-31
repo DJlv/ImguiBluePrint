@@ -2,6 +2,7 @@
 .vscode
 .build*
 .DS_Store
+.idea
 bin
 [Bb]uild
 *.VC.db
@@ -9,3 +10,4 @@ bin
 *.user
 *.ini
 *.json
+examples/cmake-build-debug
