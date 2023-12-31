@@ -2,7 +2,7 @@
 
 # include <imgui.h>
 # include <imgui_internal.h>
-# include <imgui_canvas.h>
+# include <external/imguiBluterEditor/imgui_canvas.h>
 # include <application.h>
 
 static void DrawScale(const ImVec2 &from, const ImVec2 &to, float majorUnit, float minorUnit, float labelAlignment,

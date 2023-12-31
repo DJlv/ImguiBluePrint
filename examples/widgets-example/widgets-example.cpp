@@ -19,7 +19,7 @@
 
 # include <imgui.h>
 # include <imgui_internal.h>
-# include <imgui_node_editor.h>
+# include <external/imguiBluterEditor/imgui_node_editor.h>
 # include <application.h>
 
 namespace ed = ax::NodeEditor;
